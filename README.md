@@ -1,5 +1,5 @@
-# FluxPMU
-An Open Source Maker's Guide of an DIY PMU
+# FluxPMU - An Open Source Maker's Guide of an DIY PMU
+![alt text](https://github.com/ALSETLab/FluxPMU/blob/master/FluxPMU_logo.png)
 
 FluxPMU is a "grassroots" educational project that aims  to  enable  students  to  explore  and  buildan  open  source,  low  cost  PMU.  
 
