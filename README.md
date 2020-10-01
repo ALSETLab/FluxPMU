@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/285968652.svg)](https://zenodo.org/badge/latestdoi/285968652)
+
 # FluxPMU - An Open Source Maker's Guide of an DIY PMU
 ![alt text](https://github.com/ALSETLab/FluxPMU/blob/master/FluxPMU_logo.png)
 
